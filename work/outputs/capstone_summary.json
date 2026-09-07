@@ -1,0 +1,21 @@
+{
+  "total_records": 30000,
+  "num_clients": 32,
+  "optimal_k": 5,
+  "baseline_silhouette": 0.06380043382542806,
+  "model_silhouette": 0.18238785035265642,
+  "silhouette_lift": 0.11858741652722836,
+  "mean_client_ari": 0.48671818978122633,
+  "pca_variance_explained": [
+    0.29361623743248577,
+    0.12212178482779053
+  ],
+  "cluster_distribution": {
+    "Striking-Distance Under-Capturers": 20081,
+    "Low-Discovery Zombie Inventory": 9919
+  },
+  "action_distribution": {
+    "Improve Metadata & SERP Snippets": 20081,
+    "Merge or Prune": 9919
+  }
+}
